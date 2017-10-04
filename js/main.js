@@ -34,7 +34,7 @@ var m = {
       'lightbox');
     p.lightbox = document.querySelector('#lightbox');
 
-    // Adding styles opacity
+    // Adding styles overlay
     p.lightbox.style.background = 'rgba(0, 0, 0, 0.8)';
     p.lightbox.style.height = '100%';
     p.lightbox.style.left = '0';
@@ -60,7 +60,7 @@ var m = {
     p.modal.childNodes[0].style.width = "100%";
 
     // Responsive width modal (media queries js)
-    if (window.matchMedia('(max-width:1000px)'.matches)) {
+    if (window.matchMedia("(max-width:1000px)").matches) {
       p.modal.style.width = '90%';
     } else {
       p.modal.style.width = '60%';
