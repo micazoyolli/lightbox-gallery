@@ -2,7 +2,7 @@
 
 Galería con lightbox adaptable a todos los dispositivos.
 
-![Lightbox Responsive](https://github.com/micazoyolli/lightbox-gallery/blob/master/img/screenshot.png)
+![Lightbox Responsive](https://github.com/micazoyolli/lightbox-gallery/blob/master/assets/screenshot.png)
 
 ## Demo
 [Lightbox Gallery JS Demo](https://micazoyolli.github.io/lightbox-gallery/)
